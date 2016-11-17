@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596203683508",
+    "firebase_url": "https://tesfcm-37b3b.firebaseio.com",
+    "project_id": "tesfcm-37b3b",
+    "storage_bucket": "tesfcm-37b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596203683508:android:4d23e0ab61dbebf2",
+        "android_client_info": {
+          "package_name": "com.tesfcm.user.tesfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596203683508-k03ol041kbbmqcnu34v7una4q091mvfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZR1ZKvyQ88XOPDZRGpfESivCX9ScwMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
